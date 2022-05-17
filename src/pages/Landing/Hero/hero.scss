@@ -1,0 +1,13 @@
+.hero {
+	&__title {
+		font-size: 64px !important;
+		line-height: normal !important;
+		color: #eff2a6;
+		span {
+			color: black !important;
+			-webkit-text-fill-color: black;
+			-webkit-text-stroke-width: 1px;
+			-webkit-text-stroke-color: #eff2a6;
+		}
+	}
+}

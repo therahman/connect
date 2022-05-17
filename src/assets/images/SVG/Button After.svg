@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="355" height="247" viewBox="0 0 355 247">
+  <g id="Button_After" data-name="Button After" transform="translate(90 76)">
+    <g id="Rectangle_764" data-name="Rectangle 764" transform="translate(0 14)" fill="#eff2a6" stroke="#eff2a6" stroke-width="1" opacity="0.23">
+      <rect width="175" height="67" stroke="none"/>
+      <rect x="0.5" y="0.5" width="174" height="66" fill="none"/>
+    </g>
+    <g id="Rectangle_763" data-name="Rectangle 763" fill="#eff2a6" stroke="#eff2a6" stroke-width="1" opacity="0.23">
+      <rect width="175" height="67" stroke="none"/>
+      <rect x="0.5" y="0.5" width="174" height="66" fill="none"/>
+    </g>
+    <g id="Group_1523" data-name="Group 1523" transform="translate(-307.545 -811.328)">
+      <path id="Path_3204" data-name="Path 3204" d="M3887.545,141.935v-9.607h9.245" transform="translate(-3579 680)" fill="none" stroke="#eff2a6" stroke-width="1"/>
+      <path id="Path_3205" data-name="Path 3205" d="M3896.79,141.935v-9.607h-9.245" transform="translate(-3415 680)" fill="none" stroke="#eff2a6" stroke-width="1"/>
+    </g>
+    <g id="Group_1524" data-name="Group 1524" transform="translate(1 56.328)">
+      <path id="Path_3204-2" data-name="Path 3204" d="M3887.545,132.328v9.607h9.245" transform="translate(-3887.545 -132.328)" fill="none" stroke="#eff2a6" stroke-width="1"/>
+      <path id="Path_3205-2" data-name="Path 3205" d="M3896.79,132.328v9.607h-9.245" transform="translate(-3723.545 -132.328)" fill="none" stroke="#eff2a6" stroke-width="1"/>
+    </g>
+    <path id="Path_3206" data-name="Path 3206" d="M3887.545,146.467v36.979" transform="translate(-3886.545 -131)" fill="none" stroke="#343434" stroke-width="1"/>
+    <path id="Path_3207" data-name="Path 3207" d="M3887.545,146.467v36.979" transform="translate(-3713.301 -131)" fill="none" stroke="#343434" stroke-width="1"/>
+    <path id="Path_3208" data-name="Path 3208" d="M3887.545,146.467V292.412" transform="translate(-131.712 3889.045) rotate(-90)" fill="none" stroke="#343434" stroke-width="1"/>
+    <path id="Path_3209" data-name="Path 3209" d="M3887.545,146.467V292.412" transform="translate(-131.712 3953.48) rotate(-90)" fill="none" stroke="#343434" stroke-width="1"/>
+  </g>
+</svg>

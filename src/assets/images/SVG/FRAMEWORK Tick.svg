@@ -1,0 +1,22 @@
+<svg id="FRAMEWORK_Tick" data-name="FRAMEWORK Tick" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.739" height="29.739" viewBox="0 0 29.739 29.739">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_276" data-name="Ellipse 276" cx="14.869" cy="14.869" r="14.869" fill="#eff2a6"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.237" y1="0.352" x2="0.592" y2="0.663" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d6d98a"/>
+      <stop offset="1" stop-color="#eff2a6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1441" data-name="Group 1441">
+    <circle id="Ellipse_275" data-name="Ellipse 275" cx="14.869" cy="14.869" r="14.869" fill="#eff2a6"/>
+    <g id="Mask_Group_6" data-name="Mask Group 6" clip-path="url(#clip-path)">
+      <path id="Path" d="M21.9,14.252c-.078.313-.235.626-.313.94a11.074,11.074,0,0,1-.626,1.41c-.078.235-.235.47-.313.705a16.049,16.049,0,0,1-1.565,2.429,8.221,8.221,0,0,1-.7.862,17.513,17.513,0,0,1-5.166,4.075c-.392.156-.7.392-1.1.549-.626.235-1.252.47-1.957.7-.392.078-.7.157-1.1.235L.9,19.737-5.529,6.217l4.156,2.635H-.3s2.091-1.613,1.934-1.77C1.553,7,3.566,3.988,3.566,3.988l2.205-1.1L7.276.4Z" transform="translate(13.6 9.668)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Path_3169" data-name="Path 3169" d="M-20665.674,9687.859l3.82,3.82,8.742-8.742" transform="translate(20674.244 -9672.612)" fill="none" stroke="#000" stroke-width="2"/>
+  </g>
+  <g id="Ellipse_277" data-name="Ellipse 277" fill="none" stroke="rgba(0,0,0,0.12)" stroke-width="1">
+    <circle cx="14.869" cy="14.869" r="14.869" stroke="none"/>
+    <circle cx="14.869" cy="14.869" r="14.369" fill="none"/>
+  </g>
+</svg>
